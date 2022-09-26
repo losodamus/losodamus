@@ -8,6 +8,7 @@ Now, I'm adding low-code to my toolset as Microsoft's Power Platform promotes mo
 > - :computer: Site [theiilakesgroup.com](https://theiilakesgroup.com)
 > - :speech_balloon: Twitter [The2Lakes](https://twitter.com/The2Lakes)
 > - :camera: Instagram [The2Lakes](https://www.instagram.com/The2Lakes/)
+> - :microphone: Sessionize [Charles Lakes](https://sessionize.com/charles-e-lakes-ii)
 > 
 
 <!--
