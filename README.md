@@ -2,7 +2,7 @@ Sono Charles.
 
 My background is software engineering and I've been in the coding space for a while. I started out as a server-side developer (C++, Java, C#, SQL, PHP), then picked up client-side development (HTML, CSS, JavaScript, VBScript, TypeScript, ASP). As I transitioned to more admin roles, I've grown particularly fond of PowerShell.
 
-Now, I'm adding low-code to my toolset as Microsoft's Power Platform promotes more citizen development. But low-code still gives me an opportunity to code with Power Fx. Even so, I still enjoy my high-code (traditional programming), so while I explore Power Fx, I'm still working Blazor and Xamarin, and looking forward to .NET MAUI.
+Now, I'm adding low-code to my toolset as Microsoft's Power Platform promotes more citizen development. But low-code still gives me an opportunity to code with Power Fx. Even so, I still enjoy my high-code (traditional programming), so while I explore Power Fx, I'm still working Xamarin, Blazor, and .NET MAUI.
 
 >
 > ### Connect w/ me...
