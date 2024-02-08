@@ -6,11 +6,11 @@ Now, I'm adding low-code to my toolset as Microsoft's Power Platform promotes mo
 
 >
 > ### Connect w/ me...
-> - :notebook:: Blog | [CharlesLakes.com](https://charleslakes.com)
-> - :briefcase:: Consulting | [TheIILakesGroup.com](https://theiilakesgroup.com)
-> - :microphone:: Speaking | [Sessionize](https://sessionize.com/charles-e-lakes-ii)
+> - :notebook:: Personal Blog | [CharlesLakes.com](https://charleslakes.com)
+> - :briefcase:: Consulting Services | [TheIILakesGroup.com](https://theiilakesgroup.com)
+> - :microphone:: Speaker Profile | [Sessionize](https://sessionize.com/charles-e-lakes-ii)
 > - :camera:: Instagram | [@The2Lakes](https://www.instagram.com/The2Lakes/)
-> - :speech_balloon:: ~~Twitter | [T@he2Lakes](https://twitter.com/The2Lakes)~~
+> - :speech_balloon:: ~~Twitter | [@The2Lakes](https://twitter.com/The2Lakes)~~
 > 
 
 <!--
