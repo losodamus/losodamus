@@ -10,7 +10,7 @@ Now, I'm adding low-code to my toolset as Microsoft's Power Platform promotes mo
 > - :briefcase:: Consulting Services | [TheIILakesGroup.com](https://theiilakesgroup.com)
 > - :microphone:: Speaker Profile | [Sessionize](https://sessionize.com/charles-e-lakes-ii)
 > - :camera:: Instagram | [@The2Lakes](https://www.instagram.com/The2Lakes/)
-> - :speech_balloon:: ~~Twitter | [@The2Lakes](https://twitter.com/The2Lakes)~~
+> - :speech_balloon:: Twitter | [@The2Lakes](https://twitter.com/The2Lakes)
 > 
 
 <!--
