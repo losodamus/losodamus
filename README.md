@@ -7,7 +7,7 @@ Now, I'm adding low-code to my toolset as Microsoft's Power Platform promotes mo
 >
 > ### Connect w/ me...
 > - :notebook:  Personal Blog:  [CharlesLakes.com](https://charleslakes.com)
-> - :link:  LinkedIn  :  [Charles E. Lakes II](https://www.linkedin.com/in/charles-e-lakes-ii)
+> - :computer:  LinkedIn  :  [Charles Lakes II](https://www.linkedin.com/in/charles-e-lakes-ii)
 > - :briefcase:  Consulting Services:  [TheIILakesGroup.com](https://theiilakesgroup.com)
 > - :microphone:  Speaker Profile(s):  [Sessionize](https://sessionize.com/charles-e-lakes-ii) | [run.events](https://speakers.run.events/charles-e-lakes-ii/portfolio)
 > - :camera:  Instagram:  [@The2Lakes](https://www.instagram.com/The2Lakes/)
