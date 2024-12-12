@@ -12,6 +12,7 @@ Now, I'm adding low-code to my toolset as Microsoft's Power Platform promotes mo
 > - :microphone:  Speaker Profile(s):  [Sessionize](https://sessionize.com/charles-e-lakes-ii) | [run.events](https://speakers.run.events/charles-e-lakes-ii/portfolio)
 > - :camera:  Instagram:  [@The2Lakes](https://www.instagram.com/The2Lakes/)
 > - :speech_balloon:  ~~Twitter:  [@The2Lakes](https://twitter.com/The2Lakes)~~
+> - :name_badge:  Meetup  [Charles Lakes II](https://www.meetup.com/members/239043427/)
 > 
 
 <!--
